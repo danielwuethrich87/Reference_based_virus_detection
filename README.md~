@@ -1,4 +1,4 @@
-Reference base virus detection
+Bacterial genome contamination analysis
 =======================
 
 This pipeline is remapping reads to the reference genomes from Viruses. Also alternative databases can be used like antibiotica resistances.<br />
